@@ -1,0 +1,9 @@
+.star:hover {
+    color: orange;
+    cursor: pointer;
+  }
+
+.star {
+    font-size: 1rem; 
+    color: gray;
+}
